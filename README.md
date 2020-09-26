@@ -1,2 +1,2 @@
 # ReactSSR
-Follow along for React SSR course.
+Follow along for the React-SSR course by Stephen Grider
