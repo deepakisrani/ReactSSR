@@ -117,3 +117,4 @@ dist
 
 # webpack build file
 server/build
+server/public
