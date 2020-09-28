@@ -7,3 +7,4 @@ Topics covered:
 * Hydration of server rendered html
 * webpack-merge
 * webpack-node-externals
+* StaticRouter for SSR
