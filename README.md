@@ -8,3 +8,7 @@ Topics covered:
 * webpack-merge
 * webpack-node-externals
 * StaticRouter for SSR
+* Creation of redux store for both server and client
+
+
+API Used: https://react-ssr-api.heroku.com/
