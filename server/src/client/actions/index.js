@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const baseUrl = 'https://react-ssr-api.heroku.com';
+const baseUrl = 'http://react-ssr-api.herokuapp.com';
 
 export const FETCH_USERS = 'fetch_users';
 export const fetchUsers = () => async (dispatch) => {

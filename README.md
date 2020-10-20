@@ -9,6 +9,8 @@ Topics covered:
 * webpack-node-externals
 * StaticRouter for SSR
 * Creation of redux store for both server and client
+* Use of react-router-config to match routes without actually rendering the app
+* Redux state "rehydration"
 
 
-API Used: https://react-ssr-api.heroku.com/
+API Used: http://react-ssr-api.heroku.com/
