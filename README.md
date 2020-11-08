@@ -17,5 +17,6 @@ Topics covered:
 * Wrapping promises inside promises for error handling inside promise.all (server side)
 * requireAuth higher order component
 * Handling redirects while rendering server side
+* Setting meta tags with react-helmet
 
 API Used: http://react-ssr-api.heroku.com/
