@@ -13,5 +13,9 @@ Topics covered:
 * Redux state "rehydration"
 * Setup proxy for api requests
 * Setup different axios instances and pass them with redux thunk
+* Context for StaticRouter for handling 404s
+* Wrapping promises inside promises for error handling inside promise.all (server side)
+* requireAuth higher order component
+* Handling redirects while rendering server side
 
 API Used: http://react-ssr-api.heroku.com/
